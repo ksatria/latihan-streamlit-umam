@@ -24,9 +24,11 @@ def run():
         page_icon="👋",
     )
 
-    st.write("# Welcome to Streamlit! 👋")
+    st.write("# :balloon: Welcome to Streamlit! 👋")
 
     st.sidebar.success("Select a demo above.")
+
+    st.write("Ini adalah bahan latihan Streamlit milik Khoirul Umam")
 
     st.markdown(
         """
